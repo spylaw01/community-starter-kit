@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Probot is a training module for novice users
 
 ## What it does
 
-FEATURES PLACEHOLDER
+
+this bot train how to post projects
 
 ## Getting started
 
